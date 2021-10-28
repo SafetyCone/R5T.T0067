@@ -1,0 +1,3 @@
+R5T.T0067.Construction - Construction project for IService and IServiceOperator extension method bases..
+
+GOALS:
